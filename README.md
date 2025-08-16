@@ -1,4 +1,5 @@
-## Business Insights 360
+## Business Insights 360 --1.5M data
+Using Sql + Power Bi 
 
 ## Importing data into PowerBi
 Business Insights 360 is a dynamic Power BI dashboard project designed to provide a comprehensive overview of key business performance indicators. This project showcases the ability to transform raw business data into actionable insights using powerful data visualization and analysis tools.
