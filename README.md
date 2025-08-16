@@ -195,7 +195,7 @@ In Home view, all the views button will be available. User will land on specific
 ## Supply chain View
 
 
-![Supply Chain View.png](https://github.com/AbdullahAlFahad01/Business-Insights-360/blob/main/SupplyChain%20View.png.png)
+![Supply Chain View.png](https://github.com/AbdullahAlFahad01/Business-Insights-360/blob/main/Supply%20Chain%20View.png)
 
 ## Executive View
 
