@@ -8,9 +8,6 @@ Business Insights 360 is a dynamic Power BI dashboard project designed to provid
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
-
-[Live Report Link](https://app.powerbi.com/reportEmbed?reportId=02ecfc32-8e01-4bfb-b54c-37fdb778a8e9&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
 
 ## Tech stacks
 
@@ -41,11 +38,6 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
 - And more 😅
-
-## GitHub 
-
-- Uploading Large size files using GitHub LFS
-- Tracking the particular type of file extensions for LFS
 
 ## Business related terms
 
@@ -158,10 +150,10 @@ Fact table : It will have the data about the transactions
 
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
-- Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
-- In this project, we have followed Snowfall data modeling method.
+- Following Good practices of data modeling is must.
+- In this project, we have followed Snowflacke data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+<img src="https://github.com/AbdullahAlFahad01/Business-Insights-360/blob/main/Data%20Model.png" class="center">
 
 ### Dashboard designing
 
@@ -182,13 +174,13 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Home.gif)
+![Home.png](https://github.com/AbdullahAlFahad01/Business-Insights-360/blob/main/Home.png)
 
 
 ## Finance View and Insights
 
-![Finace.gif](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Finance%20View.gif)
-![Finace.image](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Finance%20View%20Insights.png)
+
+![Finance View.png](https://github.com/AbdullahAlFahad01/Business-Insights-360/blob/main/Finance%20View.png)
 
 ## Sales View
 
